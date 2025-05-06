@@ -11,7 +11,7 @@ import SwiftUI
 struct blockStocksApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TitleView()
         }
     }
 }
